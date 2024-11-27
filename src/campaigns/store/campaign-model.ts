@@ -1,0 +1,1 @@
+//Campaign store slice specific models goes here

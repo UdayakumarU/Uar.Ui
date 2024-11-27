@@ -1,0 +1,1 @@
+//Campaign specific store slice goes here
